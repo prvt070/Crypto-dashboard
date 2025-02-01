@@ -1,7 +1,0 @@
-{
-    "zenMode.hideStatusBar": false,
-    "editor.suggest.showConstants": true,
-    "debug.enableStatusBarColor": true,
-    "terminal.integrated.hideOnStartup": "never",
-    "debug.showInStatusBar": "onFirstSessionStart"
-}
